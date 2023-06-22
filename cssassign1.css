@@ -1,0 +1,28 @@
+p{
+    background-color: brown;
+  color: red;
+  line-height: 30px;
+    
+}
+*{
+    align-items: center;
+    font: georgia;
+}
+
+h1{
+    color: black;
+}
+h3{
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: rgb(0,255,0 );
+}
+button{
+    background-color: white;
+    color: blueviolet;
+}
+textarea{
+    background-color: #000000;
+}
